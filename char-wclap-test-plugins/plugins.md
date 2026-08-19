@@ -5,13 +5,12 @@ and interfaces—not production audio products. Every archive contains
 `module.wasm` and a root `LICENSE.txt`; GUI archives also contain their UI
 resources.
 
-Source: [`charCulbert/char-wclap-examples`](https://github.com/charCulbert/char-wclap-examples), local `main` commit `93a2a73` pending approved publication.
+Source: [`charCulbert/char-wclap-examples`](https://github.com/charCulbert/char-wclap-examples), local `main` commit `087298b` pending approved publication.
 
 | Archive | What it tests |
 | --- | --- |
 | `char-example-effect.wclap.tar.gz` | Basic stereo effect loading and live/offline audio. |
 | `char-example-synth.wclap.tar.gz` | MIDI instrument loading and standalone frame-zero offline startup. |
-| `char-bundled-sampler.wclap.tar.gz` | Ordinary bundled sample-file loading and MIDI playback. |
 | `char-note-ports-example.wclap.tar.gz` | Native CLAP notes, addresses, expressions, output events, dialects, and rescans. |
 | `char-note-echo-example.wclap.tar.gz` | Sample-accurate generated note repeats, IDs, note-offs, and parameters. |
 | `char-sequencer-example.wclap.tar.gz` | Transport-driven note generation across start, seek, loop, live, and offline paths. |
