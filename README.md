@@ -9,7 +9,7 @@ that supports WCLAP.
 | Tapa | FM, noise, and metallic percussion | [WCLAP](tapa.wclap.tar.gz) | [Source](https://github.com/charCulbert/Tapa) |
 | Mote | Host-synced arpeggiator | [WCLAP](Mote.wclap.tar.gz) | [Source](https://github.com/charCulbert/Mote) |
 | Saw demo | Synthesizer with an ImGui interface | [WCLAP](clap-saw-demo-imgui.wclap.tar.gz) | — |
-| Slide    |  A stereo delay plugin inspired by [slide rulers](https://sliderulemuseum.com/)! | https://github.com/charCulbert/Slide
+| Slide    |  A stereo delay plugin inspired by [slide rulers](https://sliderulemuseum.com/)! | [Source](https://github.com/charCulbert/Slide)
 
 ## Licenses and credits
 
