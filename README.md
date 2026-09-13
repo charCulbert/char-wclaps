@@ -9,11 +9,12 @@ that supports WCLAP.
 | Tapa | FM, noise, and metallic percussion | [WCLAP](tapa.wclap.tar.gz) | [Source](https://github.com/charCulbert/Tapa) |
 | Mote | Host-synced arpeggiator | [WCLAP](Mote.wclap.tar.gz) | [Source](https://github.com/charCulbert/Mote) |
 | Saw demo | Synthesizer with an ImGui interface | [WCLAP](clap-saw-demo-imgui.wclap.tar.gz) | — |
+| Slide    |  A stereo delay plugin inspired by [slide rulers](https://sliderulemuseum.com/)! | https://github.com/charCulbert/Slide
 
 ## Licenses and credits
 
 Each archive includes its own license and third-party notices. MNO, Tapa,
-and Mote use ISC. The saw demo includes its upstream MIT license and
+Mote, and Slide use ISC. The saw demo includes its upstream MIT license and
 third-party license texts.
 
 Thanks to the authors and contributors of the projects used by these plug-ins.
