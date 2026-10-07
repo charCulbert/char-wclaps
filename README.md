@@ -14,8 +14,8 @@ that supports WCLAP.
 
 ## Licenses and credits
 
-Each archive includes its own license and third-party notices. MNO, Tapa,
-and Mote use ISC; Slide and char-spectrum use MIT. The saw demo includes its
+Each archive includes its own license and third-party notices. Tapa and
+Mote use ISC; MNO, Slide and char-spectrum use MIT. The saw demo includes its
 upstream MIT license and third-party license texts.
 
 Thanks to the authors and contributors of the projects used by these plug-ins.
