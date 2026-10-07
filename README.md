@@ -8,15 +8,15 @@ that supports WCLAP.
 | MNO | Monophonic synthesizer | [WCLAP](MNO.wclap.tar.gz) | [Source](https://github.com/charCulbert/mno) |
 | Tapa | FM, noise, and metallic percussion | [WCLAP](tapa.wclap.tar.gz) | [Source](https://github.com/charCulbert/Tapa) |
 | Mote | Host-synced arpeggiator | [WCLAP](Mote.wclap.tar.gz) | [Source](https://github.com/charCulbert/Mote) |
-| Slide | Stereo delay drawn as a picture of the repeats | [WCLAP](Slide.wclap.tar.gz) | [Source](https://github.com/charCulbert/Slide) |
+| Slide | Stereo delay inspired by slide rules | [WCLAP](Slide.wclap.tar.gz) | [Source](https://github.com/charCulbert/slide) |
+| char-spectrum | Spectrum analyzer drawn with WebGPU | [WCLAP](char-spectrum.wclap.tar.gz) | [Source](https://github.com/charCulbert/char-spectrum) |
 | Saw demo | Synthesizer with an ImGui interface | [WCLAP](clap-saw-demo-imgui.wclap.tar.gz) | — |
-| Slide    |  A stereo delay plugin inspired by [slide rulers](https://sliderulemuseum.com/)! | [Source](https://github.com/charCulbert/Slide)
 
 ## Licenses and credits
 
 Each archive includes its own license and third-party notices. MNO, Tapa,
-Mote, and Slide use ISC. The saw demo includes its upstream MIT license and
-third-party license texts.
+and Mote use ISC; Slide and char-spectrum use MIT. The saw demo includes its
+upstream MIT license and third-party license texts.
 
 Thanks to the authors and contributors of the projects used by these plug-ins.
 Their credits and full license notices are included in the archives.
