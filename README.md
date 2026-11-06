@@ -11,13 +11,15 @@ repository's MIT licence covers only the repository's own files.
 | Mote | Host-synced arpeggiator | [WCLAP](Mote.wclap.tar.gz) | [Source](https://github.com/charCulbert/Mote) |
 | Slide | Stereo delay inspired by slide rules | [WCLAP](Slide.wclap.tar.gz) | [Source](https://github.com/charCulbert/slide) |
 | char-spectrum | Spectrum analyzer drawn with WebGPU | [WCLAP](char-spectrum.wclap.tar.gz) | [Source](https://github.com/charCulbert/char-spectrum) |
+| char-spectrogram | Scrolling spectrogram, FFT and constant-Q | [WCLAP](char-spectrogram.wclap.tar.gz) | [Source](https://github.com/charCulbert/char-spectrogram) |
+| PICOH-101 | Monosynth inspired by the Roland SH-101 | [WCLAP](PICOH-101.wclap.tar.gz) | [Source](https://github.com/charCulbert/picoh-101) |
 | Pro54 | Cmajor's example Pro-53 style synthesizer, GPLv3 | [WCLAP](Pro54.wclap.tar.gz) | [Source](https://github.com/cmajor-lang/cmajor/tree/main/examples/patches/Pro54) |
 | Saw demo | Synthesizer with an ImGui interface | [WCLAP](clap-saw-demo-imgui.wclap.tar.gz) | — |
 
 ## Licenses and credits
 
-Each archive includes its own license and third-party notices. Tapa and
-Mote use ISC; MNO, Slide and char-spectrum use MIT. The saw demo includes its
+Each archive includes its own license and third-party notices. Mote uses
+ISC; MNO, Tapa, Slide, char-spectrum, char-spectrogram and PICOH-101 use MIT. The saw demo includes its
 upstream MIT license and third-party license texts. Pro54 is Cmajor's example
 patch, copyright Cmajor Software Ltd, under GPLv3.
 
