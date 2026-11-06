@@ -8,7 +8,6 @@ repository's MIT licence covers only the repository's own files.
 | --- | --- | --- | --- |
 | MNO | Monophonic synthesizer | [WCLAP](MNO.wclap.tar.gz) | [Source](https://github.com/charCulbert/mno) |
 | Tapa | FM, noise, and metallic percussion | [WCLAP](tapa.wclap.tar.gz) | [Source](https://github.com/charCulbert/Tapa) |
-| Mote | Host-synced arpeggiator | [WCLAP](Mote.wclap.tar.gz) | [Source](https://github.com/charCulbert/Mote) |
 | Slide | Stereo delay inspired by slide rules | [WCLAP](Slide.wclap.tar.gz) | [Source](https://github.com/charCulbert/slide) |
 | char-spectrum | Spectrum analyzer drawn with WebGPU | [WCLAP](char-spectrum.wclap.tar.gz) | [Source](https://github.com/charCulbert/char-spectrum) |
 | char-spectrogram | Scrolling spectrogram, FFT and constant-Q | [WCLAP](char-spectrogram.wclap.tar.gz) | [Source](https://github.com/charCulbert/char-spectrogram) |
@@ -18,9 +17,9 @@ repository's MIT licence covers only the repository's own files.
 
 ## Licenses and credits
 
-Each archive includes its own license and third-party notices. Mote uses
-ISC; MNO, Tapa, Slide, char-spectrum, char-spectrogram and PICOH-101 use MIT. The saw demo includes its
-upstream MIT license and third-party license texts. Pro54 is Cmajor's example
+Each archive includes its own license and third-party notices. MNO, Tapa,
+Slide, char-spectrum, char-spectrogram and PICOH-101 use MIT. The saw demo
+includes its upstream MIT license and third-party license texts. Pro54 is Cmajor's example
 patch, copyright Cmajor Software Ltd, under GPLv3.
 
 Thanks to the authors and contributors of the projects used by these plug-ins.
